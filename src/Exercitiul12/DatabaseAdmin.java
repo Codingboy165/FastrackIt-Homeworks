@@ -5,10 +5,10 @@ import java.time.LocalDateTime;
 public class DatabaseAdmin extends Employee {
     private String dbTechnology;
 
-    public DatabaseAdmin(LocalDateTime birthDate) {
-        super(birthDate);
-        this.dbTechnology = dbTechnology;
+    public DatabaseAdmin(LocalDateTime birthDate, String position) {
+        super(birthDate, position);
     }
+
 
     @Override
     public String getAdress() {

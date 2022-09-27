@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 public class Main {
     public static void main(String[] args) {
-        AgeCalculator ageCalculator = new AgeCalculator(new DatabaseAdmin(LocalDateTime.of(1235,10,10,10,10,10)));
+        AgeCalculator ageCalculator = new AgeCalculator(new Employee(LocalDateTime.of(2022,12,11,10,15,11),"Kfc Employee"));
         System.out.println(ageCalculator.getAge());
     }
 }

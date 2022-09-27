@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 7 Homework">
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul11/Cosmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul11/Electronics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul11/Fridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul11/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul12/AgeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul12/DatabaseAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul12/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul12/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercitiul12/Programmer.java" afterDir="false" />
+    <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 8 Homework">
+      <change afterPath="$PROJECT_DIR$/src/Exercitiul21/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercitiul12/AgeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercitiul12/AgeCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercitiul12/DatabaseAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercitiul12/DatabaseAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercitiul12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercitiul12/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664124400157</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Course 8 Homework">
+      <created>1664187272828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664187272828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Course 7 Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course 7 Homework" />
+    <MESSAGE value="Course 8 Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course 8 Homework" />
   </component>
 </project>
