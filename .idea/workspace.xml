@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 10 Homework">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_6_2022_12_06_PM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_6_2022_12_06_PM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/grades.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain/ReportGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercitiulMain/Classroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercitiulMain/Classroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercitiulMain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercitiulMain/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

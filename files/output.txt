@@ -1,0 +1,3 @@
+Persoana cu cea mai mare notă e: 10, si nota ei e: Majken Olgica
+Nota medie e: 7.1
+Persoana cu cea mai mică notă e: Utu Arcadius si nota ei e: 3

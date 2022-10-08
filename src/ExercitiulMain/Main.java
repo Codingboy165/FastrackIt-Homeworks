@@ -8,13 +8,16 @@ import java.util.regex.Pattern;
 public class Main {
     public static void main(String[] args) throws IOException {
         System.out.println(readFileBuffered());
-        Classroom slavici = new Classroom(readFileBuffered());
+        List<StudentGrade> grades = readFileBuffered();
+        Classroom slavici = new Classroom(grades);
         System.out.println(slavici.getGradesForDiscipline("Mathematics"));
         System.out.println(slavici.getGradesForStudent("Bennett Frieda"));
         System.out.println(slavici.getMaxGrade(null)==null ? "sorry" : slavici.getMaxGrade("Mathematics"));
         System.out.println(slavici.getMaxGrade());
         System.out.printf("%.2f%n",slavici.getAverageGrade("Mathematics"));
         System.out.println(slavici.getWorstGrade("Mathematics"));
+        ReportGenerator reportGenerator = new ReportGenerator(grades);
+        reportGenerator.generateReport();
     }
 
     public static List<StudentGrade> readFileBuffered() throws IOException {

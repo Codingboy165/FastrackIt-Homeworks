@@ -73,12 +73,32 @@ public class Classroom {
         }
         return sum / i;
     }
+    public double getAverageGrade() {
+        int i = 0;
+        double sum = 0;
+        for (StudentGrade studentGrade : grades) {
+            i++;
+            sum += studentGrade.grade();
+        }
+        return sum / i;
+    }
 
     public StudentGrade getWorstGrade(String discipline) {
         StudentGrade result = null;
         int min = 11;
         for (StudentGrade studentGrade : grades) {
             if ((studentGrade.discipline().equals(discipline)) && (studentGrade.grade() < min)) {
+                result = studentGrade;
+                min = studentGrade.grade();
+            }
+        }
+        return result;
+    }
+    public StudentGrade getWorstGrade() {
+        StudentGrade result = null;
+        int min = 11;
+        for (StudentGrade studentGrade : grades) {
+            if (studentGrade.grade() < min) {
                 result = studentGrade;
                 min = studentGrade.grade();
             }
