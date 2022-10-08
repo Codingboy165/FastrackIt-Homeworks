@@ -15,7 +15,7 @@ public class ReportGenerator {
     }
 
     public void generateReport() throws IOException {
-        writer.write("Persoana cu cea mai mare notă e: " + classroom.getMaxGrade().grade() + ", si nota ei e: " + classroom.getMaxGrade().fullName());
+        writer.write("Persoana cu cea mai mare notă e: " + classroom.getMaxGrade().grade() + ", si numele ei e: " + classroom.getMaxGrade().fullName());
         writer.newLine();
         writer.write("Nota medie e: " + classroom.getAverageGrade());
         writer.newLine();
