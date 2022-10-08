@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Regex">
+  <component name="RunManager" selected="Application.ExercitiulMain.Main">
     <configuration name="ExercitiulMain.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExercitiulMain.Main" />
       <module name="FastrackIt Homeworks" />
@@ -63,8 +63,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Regex" />
         <item itemvalue="Application.ExercitiulMain.Main" />
+        <item itemvalue="Application.Regex" />
       </list>
     </recent_temporary>
   </component>
