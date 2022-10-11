@@ -15,29 +15,46 @@ public class Main {
         Person person8 = new Person("Rusu", 95, "Black");
         personList = List.of(person, person2, person3, person4, person5, person6, person7, person8);
         System.out.println(extractTheNames(personList));
-        Map<String,Integer> theMap= new TreeMap<>();
-        theMap=makeAMap(personList);
+        Map<String, Integer> theMap = new TreeMap<>();
+        theMap = makeAMap(personList);
         System.out.println(theMap);
-        System.out.println(olderOrNotMethod(personList,5));
-
+        System.out.println(olderOrNotMethod(personList, 5));
+        Map<String, List<String>> theMap2 = new TreeMap<>();
+        theMap2 = makeMapForHaircolorAndName(personList);
+        System.out.println(theMap2);
     }
 
-    public static List<Person> olderOrNotMethod(List<Person> persons, int age){
+    public static Map<String,List<String>> makeMapForHaircolorAndName(List<Person> persons) {
+        Map<String, List<String>> result = new TreeMap<>();
+        List<String> names = new ArrayList<>();
+        for (Person p : persons) {
+            if(p.hairColor().equals(p.hairColor())){
+            //nu am inteles cum adaug o lista la map
+            }
+                names.add(p.name());
+                result.put(p.hairColor(), names);
+        }
+        return result;
+    }
+
+    public static List<Person> olderOrNotMethod(List<Person> persons, int age) {
         List<Person> result = new ArrayList<>();
-        for (Person p:persons){
-            if(p.age()>age){
+        for (Person p : persons) {
+            if (p.age() > age) {
                 result.add(p);
             }
         }
         return result;
     }
-    public static Map<String,Integer> makeAMap (List<Person> persons){
-        Map<String,Integer> result=new TreeMap<>();
-        for (Person p:persons){
-            result.put(p.name(),p.age());
+
+    public static Map<String, Integer> makeAMap(List<Person> persons) {
+        Map<String, Integer> result = new TreeMap<>();
+        for (Person p : persons) {
+            result.put(p.name(), p.age());
         }
         return result;
     }
+
     public static List<String> extractTheNames(List<Person> persons) {
 
         int i = 0;
@@ -59,7 +76,6 @@ public class Main {
         }
         return result;
     }
-
 
 
 }

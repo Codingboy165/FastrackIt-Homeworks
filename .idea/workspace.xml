@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 10 Homework Main">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain02/Person.java" afterDir="false" />
+    <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 11 Homework Main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercitiulMain02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercitiulMain02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665227237280</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Course 11 Homework Main">
+      <created>1665486054878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665486054878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +118,7 @@
     <MESSAGE value="Course 8 Homework" />
     <MESSAGE value="Course 10 Homework" />
     <MESSAGE value="Course 10 Homework Report app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course 10 Homework Report app" />
+    <MESSAGE value="Course 11 Homework Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course 11 Homework Main" />
   </component>
 </project>
