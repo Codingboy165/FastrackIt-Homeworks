@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 11 Homework Main">
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/CarShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/KmRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/PriceRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_11_2022_6_27_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_11_2022_6_27_PM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2022_12_18_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2022_12_18_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 11 Homework Extra" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665486054878</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Course 11 Homework Extra">
+      <created>1666169114640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666169114640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +166,7 @@
     <MESSAGE value="Course 10 Homework" />
     <MESSAGE value="Course 10 Homework Report app" />
     <MESSAGE value="Course 11 Homework Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course 11 Homework Main" />
+    <MESSAGE value="Course 11 Homework Extra" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course 11 Homework Extra" />
   </component>
 </project>
