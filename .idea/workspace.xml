@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32073173-7116-4cce-9f33-b86305db974f" name="Changes" comment="Course 11 Homework Main">
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain023/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain023/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain023/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain04/DaySchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercitiulMain04/DaysOfTheWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2022_12_18_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2022_12_18_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/KmRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercitiulExtra/PriceRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_11_2022_6_27_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_11_2022_6_27_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2022_12_18_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2022_12_18_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercitiulMain02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercitiulMain02/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercitiulMain03/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercitiulMain03/Person.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -52,13 +50,39 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DaySchedule">
+  <component name="RunManager" selected="Application.ExercitiulExtra.CarShop">
     <configuration name="DaySchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExercitiulMain04.DaySchedule" />
       <module name="FastrackIt Homeworks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExercitiulMain04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercitiulExtra.CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercitiulExtra.CarShop" />
+      <module name="FastrackIt Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExercitiulExtra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercitiulExtra.skda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercitiulExtra.skda" />
+      <module name="FastrackIt Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExercitiulExtra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,10 +112,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercitiulExtra.CarShop" />
+        <item itemvalue="Application.ExercitiulExtra.skda" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DaySchedule" />
-        <item itemvalue="Application.ExercitiulMain023.Main" />
-        <item itemvalue="Application.ExercitiulMain01.Main" />
-        <item itemvalue="Application.ExercitiulMain023.Main" />
         <item itemvalue="Application.ExercitiulMain01.Main" />
       </list>
     </recent_temporary>
