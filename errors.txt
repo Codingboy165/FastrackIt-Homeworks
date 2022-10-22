@@ -1,0 +1,2 @@
+The position doesn't exist
+[ClassExercises.IntTools.digitAt(IntTools.java:51), ClassExercises.Main.main(Main.java:10)]
